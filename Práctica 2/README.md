@@ -1,6 +1,7 @@
 Fernando Javier Cossio Ruiz
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Juegos en red #
 
 Profesor: Jonathan Miranda
@@ -19,3 +20,10 @@ Profesor: Eduardo Guerrero
 
 Temas: Hemos visto lugares de inspiración para el diseño de niveles. Cómo hacer vistas top-down y el pacing de los niveles. Veremos cómo diseñar niveles para diferente tipo de jugadores.
 >>>>>>> DiseñoDeNiveles
+=======
+# Gráficas Avanzadas #
+
+Profesor: Juan José López
+
+Temas: Hemos visto cómo instalar las librerias de OpenGL. Hacer shaders básicos. Veremos shaders más avanzados. 
+>>>>>>> GráficasAvanzadas
