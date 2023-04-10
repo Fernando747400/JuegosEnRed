@@ -1,0 +1,244 @@
+{
+    "Personajes":[
+     {
+      "Personaje ID": 1,
+      "Nombre personaje": "Spider-Man",
+      "Nombre real": "Peter Parker",
+      "Poderes ID": [1,2,3,6,7],
+      "Origen": "Queens, NY",
+      "Archienemigo": 2,
+      "Equipo ID": 2,
+      "Alineamiento": "Héroe",
+      "Edad": 28,
+      "Nacimiento": "28-Aug-95",
+      "Foto": "https:\/\/bit.ly\/3GSWItV"
+     },
+     {
+      "Personaje ID": 2,
+      "Nombre personaje": "Duende verde",
+      "Nombre real": "Norman Osborn",
+      "Poderes ID": [1,2,3,4,5],
+      "Origen": "EU",
+      "Archienemigo": 1,
+      "Equipo ID": 3,
+      "Alineamiento": "Villano",
+      "Edad": 55,
+      "Nacimiento": "07-Mar-68",
+      "Foto": "https:\/\/bit.ly\/3Kwc1tw"
+     },
+     {
+      "Personaje ID": 3,
+      "Nombre personaje": "Iron Man",
+      "Nombre real": "Tony Stark",
+      "Poderes ID": [3,5],
+      "Origen": "Long Island, NY",
+      "Archienemigo": 4,
+      "Equipo ID": 2,
+      "Alineamiento": "Héroe",
+      "Edad": 50,
+      "Nacimiento": "29-May-73",
+      "Foto": "https:\/\/bit.ly\/3KNI6yi"
+     },
+     {
+      "Personaje ID": 4,
+      "Nombre personaje": "Mandarin",
+      "Nombre real": "Xu Wnwu",
+      "Poderes ID": [4,5],
+      "Origen": "China",
+      "Archienemigo": 3,
+      "Equipo ID": 4,
+      "Alineamiento": "Villano",
+      "Edad": 1000,
+      "Nacimiento": "NULL",
+      "Foto": "https:\/\/bit.ly\/3msYGKd"
+     },
+     {
+      "Personaje ID": 5,
+      "Nombre personaje": "Hulk",
+      "Nombre real": "Bruce Banner",
+      "Poderes ID": [1,3],
+      "Origen": "Dayton, Ohio",
+      "Archienemigo": 6,
+      "Equipo ID": 2,
+      "Alineamiento": "Héroe",
+      "Edad": 46,
+      "Nacimiento": "18-Dec-77",
+      "Foto": "https:\/\/bit.ly\/3ZWzxFF"
+     },
+     {
+      "Personaje ID": 6,
+      "Nombre personaje": "Abominación",
+      "Nombre real": "Emil Blonsky",
+      "Poderes ID": [1],
+      "Origen": "Zagreb Croacia",
+      "Archienemigo": 5,
+      "Equipo ID": 5,
+      "Alineamiento": "Villano",
+      "Edad": 47,
+      "Nacimiento": "14-May-76",
+      "Foto": "https:\/\/bit.ly\/3Gv4udg"
+     },
+     {
+      "Personaje ID": 7,
+      "Nombre personaje": "Thor",
+      "Nombre real": "Thor Odinson",
+      "Poderes ID": [1,8],
+      "Origen": "Asgard",
+      "Archienemigo": 7,
+      "Equipo ID": 2,
+      "Alineamiento": "Héroe",
+      "Edad": 1500,
+      "Nacimiento": "NULL",
+      "Foto": "https:\/\/bit.ly\/3mojjra"
+     },
+     {
+      "Personaje ID": 8,
+      "Nombre personaje": "Loki",
+      "Nombre real": "Loki Laufeyson",
+      "Poderes ID": [9,1],
+      "Origen": "Jotunheim",
+      "Archienemigo": 7,
+      "Equipo ID": 1,
+      "Alineamiento": "Villano",
+      "Edad": 1050,
+      "Nacimiento": "NULL",
+      "Foto": "https:\/\/bit.ly\/3KmXZtW"
+     },
+     {
+      "Personaje ID": 9,
+      "Nombre personaje": "Capitán América",
+      "Nombre real": "Steve Rogers",
+      "Poderes ID": [1,2,4,5],
+      "Origen": "Brooklyn, NY",
+      "Archienemigo": 10,
+      "Equipo ID": 2,
+      "Alineamiento": "Héroe",
+      "Edad": 101,
+      "Nacimiento": "04-Jul-22",
+      "Foto": "https:\/\/bit.ly\/41eplt7"
+     },
+     {
+      "Personaje ID": 10,
+      "Nombre personaje": "Red Skull",
+      "Nombre real": "Johann Schmidt",
+      "Poderes ID": [1,3,5],
+      "Origen": "Alemania",
+      "Archienemigo": 9,
+      "Equipo ID": 1,
+      "Alineamiento": "Villano",
+      "Edad": 120,
+      "Nacimiento": "NULL",
+      "Foto": "https:\/\/bit.ly\/3ZTdy2f"
+     },
+     {
+      "Personaje ID": 11,
+      "Nombre personaje": "Vision",
+      "Nombre real": "Vision",
+      "Poderes ID": [1,2,3,5,10],
+      "Origen": "NY",
+      "Archienemigo": 12,
+      "Equipo ID": 2,
+      "Alineamiento": "Héroe",
+      "Edad": 3,
+      "Nacimiento": "05-May-15",
+      "Foto": "https:\/\/bit.ly\/3GvZ3uB"
+     },
+     {
+      "Personaje ID": 12,
+      "Nombre personaje": "Ultron",
+      "Nombre real": "Ultron",
+      "Poderes ID": [1,2,3,5],
+      "Origen": "NY",
+      "Archienemigo": 11,
+      "Equipo ID": 1,
+      "Alineamiento": "Villano",
+      "Edad": 1,
+      "Nacimiento": "02-May-15",
+      "Foto": "https:\/\/bit.ly\/3GzEyNp"
+     }
+    ],
+    "Equipo":[
+     {
+      "Equipo ID": 1,
+      "Nombre": "Sin Afilación",
+      "Objetivo": "Personal",
+      "Ubicación": "NULL"
+     },
+     {
+      "Equipo ID": 2,
+      "Nombre": "Vengadores",
+      "Objetivo": "Proteger a la tierra y vengarla en caso de fallar",
+      "Ubicación": "EU"
+     },
+     {
+      "Equipo ID": 3,
+      "Nombre": "6 Siniestros",
+      "Objetivo": "Acabar con Spider-Man",
+      "Ubicación": "EU"
+     },
+     {
+      "Equipo ID": 4,
+      "Nombre": "10 Anillos",
+      "Objetivo": "Terrorismo Global",
+      "Ubicación": "Asia"
+     },
+     {
+      "Equipo ID": 5,
+      "Nombre": "Thunderbolts",
+      "Objetivo": "Operaciones encubiertas de la CIA y el gobiernos de los EU",
+      "Ubicación": "EU"
+     }
+    ],
+    "Poderes":[
+     {
+      "Poder ID": 1,
+      "Nombre": "Fuerza Sobrehumana",
+      "Descripción": "Se tiene una mayor fuerza que un humando promedio"
+     },
+     {
+      "Poder ID": 2,
+      "Nombre": "Super Velocidad",
+      "Descripción": "El personaje tiene una velocidad mayor a un humano promedio"
+     },
+     {
+      "Poder ID": 3,
+      "Nombre": "Super Inteligencia",
+      "Descripción": "El personaje destaca en inteligencia y conocimientos científicos y tecnológicos "
+     },
+     {
+      "Poder ID": 4,
+      "Nombre": "Artes Marciales",
+      "Descripción": "El personaje es diestro con una o múltiple cantidad de artes marciales. "
+     },
+     {
+      "Poder ID": 5,
+      "Nombre": "Artilugios Tecnológicos",
+      "Descripción": "El personaje tiene diferentes tipos de artilugios tecnológicos"
+     },
+     {
+      "Poder ID": 6,
+      "Nombre": "Sentido Arácnido",
+      "Descripción": "El personaje tiene una sensación que le alerta a peligro inminente"
+     },
+     {
+      "Poder ID": 7,
+      "Nombre": "Telarañas",
+      "Descripción": "El personaje puede lanzar telarañas que le permiten columpiarse"
+     },
+     {
+      "Poder ID": 8,
+      "Nombre": "Artículos Mágicos",
+      "Descripción": "El personaje cuenta con uno o más artículos mágicos "
+     },
+     {
+      "Poder ID": 9,
+      "Nombre": "Magia",
+      "Descripción": "El personaje puede hacer magia de forma general como ilusiones o conjuros"
+     },
+     {
+      "Poder ID": 10,
+      "Nombre": "Control de Densidad",
+      "Descripción": "El personaje puede controlar su densidad, le permite volar o hacerce inamobible o intocable"
+     }
+    ]
+}
