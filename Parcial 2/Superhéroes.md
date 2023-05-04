@@ -17,25 +17,25 @@
 - foto
 
 
-### Poderes_x_Personaje **(EC)**
+### Poderes_x_Personaje **(EP)**
 - relacion_id **(PK)**
 - poder_id **(FK)**
 - personaje_id **(FK)**
 
 
-### Personaje_x_Equipo **(EC)**
+### Personaje_x_Equipo **(EP)**
 - relacion_id **(PK)**
 - personaje_id **(FK)**
 - equipo_id **(FK)**
 
 
-### Poder  **(ED)**
+### Poder  **(EC)**
 - super_poder_id **(PK)**
 - nombre
 - descripción
 
 
-### Equipo **(ED)**
+### Equipo **(EC)**
 
 - equipo_id **(PK)**
 - nombre
@@ -53,7 +53,7 @@
 
 ### Modelo Relacional de la BD ##
 
-![Modelo Relacional de la BD](Diagrama_SH.png)
+![Modelo Relacional de la BD](../Parcial%203/MR%20DB.png)
 
 
 
